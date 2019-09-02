@@ -187,7 +187,7 @@ for (int i = 0; i < list.size(); i++) {
 		System.out.println("7.View Dept Wise ");
 		System.out.println("8.viewSortedEmployee");
 		System.out.println("9. EXIT");
-		//Scanner input = new Scanner(System. in);
+
 		 while(true){  
 		int choice = input. nextInt();
 	      
